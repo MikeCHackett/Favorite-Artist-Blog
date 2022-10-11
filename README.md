@@ -14,11 +14,11 @@ I also found it useful to reuse classes throughout my webpage to make the stylin
 
 
 ### Instructions
-Fork this repository
-Clone your forked repository
-Add your scripts
-Commit and push
-Create a pull request
-Star this repository
-Wait for pull request to merge
-Celebrate your first step into the open source world and contribute more
+- Fork this repository
+- Clone your forked repository
+- Add your scripts
+- Commit and push
+- Create a pull request
+- Star this repository
+- Wait for pull request to merge
+- Celebrate your first step into the open source world and contribute more
