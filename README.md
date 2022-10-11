@@ -1,8 +1,8 @@
-## Favorite-Artist-Blog
+# Favorite-Artist-Blog
 
 This is a blog website I created using html and css.
 
-# Description
+## Description
 
 The purpose of this project was to get more practice using html and css and styling a basic page.
 I also wanted to test my mobile responsive skills.
@@ -11,3 +11,14 @@ I also found it useful to reuse classes throughout my webpage to make the stylin
 
 
 [View Project here](https://mikechackett.github.io/Favorite-Artist-Blog/)
+
+
+### Instructions
+Fork this repository
+Clone your forked repository
+Add your scripts
+Commit and push
+Create a pull request
+Star this repository
+Wait for pull request to merge
+Celebrate your first step into the open source world and contribute more
