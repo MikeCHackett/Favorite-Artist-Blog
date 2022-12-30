@@ -3,8 +3,8 @@
 
 @font-face {
     font-family: "Booter - Zero Zero";
-    src: url("fonts/Booter - Zero Zero.woff") format("woff"),
-         url("fonts/Booter - Zero Zero.woff2") format("woff");
+    src: url("Booter - Zero Zero.woff") format("woff"),
+         url("Booter - Zero Zero.woff2") format("woff");
          font-weight: normal;
          font-style: normal;
 }
