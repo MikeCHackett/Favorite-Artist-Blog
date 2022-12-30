@@ -1,6 +1,6 @@
 # Favorite-Artist-Blog
 
-This is a blog website I created using html, css, and javascript.
+This is a blog website I created using html, css, and javascript. I gave this blog website an active functioning cart feature that allows you to add and remove items to your cart as well as calculating the total cost. This was a great way to test my JavaScript capabilities!
 
 ## Description
 
